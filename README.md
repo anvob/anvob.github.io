@@ -1,3 +1,4 @@
+[Privacy policy](#privacy-policy)
 Политика конфиденциальности
 
 City Planner – Card Deck Helper
@@ -104,7 +105,7 @@ anvob.apps@gmail.com
 
 ⸻
 
-Privacy Policy (English)
+## Privacy Policy
 
 City Planner – Card Deck Helper
 Effective date: December 1, 2025
