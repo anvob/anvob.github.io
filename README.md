@@ -86,7 +86,9 @@ Firebase может обрабатывать технические данные
 ⸻
 
 8. Политики сторонних сервисов
+   
 	•	Google Privacy Policy: https://policies.google.com/privacy
+
 	•	Firebase Privacy & Security: https://firebase.google.com/support/privacy
 
 ⸻
