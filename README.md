@@ -194,7 +194,9 @@ Firebase may process basic device information.
 ⸻
 
 8. Third-Party Policies
+   
 	•	Google Privacy Policy: https://policies.google.com/privacy
+
 	•	Firebase Privacy & Security: https://firebase.google.com/support/privacy
 
 ⸻
