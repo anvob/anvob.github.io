@@ -1,4 +1,5 @@
-[Privacy policy](#privacy-policy)
+The English version of the [Privacy policy](#privacy-policy) can be found below.
+
 Политика конфиденциальности
 
 City Planner – Card Deck Helper
