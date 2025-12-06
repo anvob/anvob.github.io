@@ -6,7 +6,7 @@ permalink: /privacy/
 The English version of the [Privacy policy](#privacy-policy) can be found below.
 
 # Политика конфиденциальности  
-**City Planner – Card Deck Helper**  
+**PaperTown – CardDeck Helper**  
 Дата вступления в силу: **01.12.2025**
 
 Это неофициальное приложение-помощник для настольной игры и не связано с издателями оригинального продукта.
@@ -101,7 +101,7 @@ Firebase может обрабатывать технические данные
 ---
 
 # Privacy Policy  
-**City Planner – Card Deck Helper**  
+**PaperTown – CardDeck Helper**  
 Effective date: **December 1, 2025**
 
 This is an unofficial companion app and is not affiliated with the publishers of the original board game.
